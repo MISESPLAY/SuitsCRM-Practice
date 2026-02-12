@@ -1,16 +1,11 @@
-# Docker & Data
 mysql_data/
 mariadb_data/
 var/
 vendor/
 node_modules/
-
-# PHPStorm & System
 .idea/
 .DS_Store
 Thumbs.db
-
-# SuiteCRM (Si decides descargar el código en local, ignoramos caché y uploads)
 cache/
 upload/
 config_override.php
