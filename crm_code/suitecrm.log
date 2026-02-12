@@ -1,0 +1,26 @@
+Wed Jan 14 01:33:36 2026 [281][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Wed Jan 14 01:33:36 2026 [281][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Wed Jan 14 01:33:36 2026 [281][1][FATAL] Email address save error
+Wed Jan 14 01:33:38 2026 [281][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Wed Jan 14 01:33:38 2026 [281][1][SECURITY] Setting logger_file_ext to '.log'.
+Wed Jan 14 01:33:38 2026 [281][1][SECURITY] Setting logger_file_name to ''.
+Wed Jan 14 01:33:38 2026 [281][1][SECURITY] Log file extension can't be blank.
+Wed Jan 14 01:33:38 2026 [281][1][SECURITY] Setting logger_file_name to ''.
+Wed Jan 14 01:33:38 2026 [281][1][SECURITY] Log file extension can't be blank.
+Wed Jan 14 01:33:43 2026 [280][-none-][FATAL] SECURITY: User authentication for cantujonathan16.music@gmail.com failed
+Wed Jan 14 01:33:43 2026 [280][-none-][FATAL] FAILED LOGIN:attempts[1], ip[172.18.0.1], username[cantujonathan16.music@gmail.com]
+Wed Jan 14 01:33:46 2026 [17][-none-][FATAL] SECURITY: User authentication for cantujonathan16.music@gmail.com failed
+Wed Jan 14 01:33:46 2026 [17][-none-][FATAL] FAILED LOGIN:attempts[1], ip[172.18.0.1], username[cantujonathan16.music@gmail.com]
+Wed Jan 14 01:33:48 2026 [18][-none-][FATAL] SECURITY: User authentication for cantujonathan16.music@gmail.com failed
+Wed Jan 14 01:33:48 2026 [18][-none-][FATAL] FAILED LOGIN:attempts[2], ip[172.18.0.1], username[cantujonathan16.music@gmail.com]
+Wed Jan 14 01:34:00 2026 [22][-none-][FATAL] SECURITY: User authentication for suitecrm failed
+Wed Jan 14 01:34:00 2026 [22][-none-][FATAL] FAILED LOGIN:attempts[1], ip[172.18.0.1], username[suitecrm]
+Wed Jan 14 01:34:09 2026 [282][-none-][FATAL] SECURITY: User authentication for cantujonathan16.music@gmail.com failed
+Wed Jan 14 01:34:09 2026 [282][-none-][FATAL] FAILED LOGIN:attempts[1], ip[172.18.0.1], username[cantujonathan16.music@gmail.com]
+Wed Jan 14 02:46:29 2026 [21][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:473 - styleChecked is not set
+Wed Jan 14 02:46:31 2026 [19][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:473 - styleChecked is not set
+Wed Jan 14 03:12:54 2026 [17][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:473 - styleChecked is not set
+Thu Jan 15 01:12:08 2026 [20][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:473 - styleChecked is not set
+Wed Jan 21 00:01:56 2026 [26][1][FATAL] Exception handling in /var/www/html/include/MVC/Controller/SugarController.php:397
+Wed Jan 21 00:01:56 2026 [26][1][FATAL] Exception in Controller: There is no action by that name: 
+Wed Jan 21 00:14:13 2026 [23][1][FATAL] Error: File [modules/Resources/metadata/editviewdefs.php] is missing. Unable to create because no corresponding HTML file was found.
